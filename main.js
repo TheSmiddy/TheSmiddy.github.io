@@ -5,7 +5,7 @@ var searchprovider = google;
 var searches = [
 
   ['/m ', 'google maps', 'https://www.google.com.au/maps/search/'],
-  ['/i ', 'google images',	'https://www.google.com.au/search?hl=it&site=imghp&tbm=isch&source=hp&biw=1540&bih=762&q='],
+  ['/i ', 'google images',	'https://www.google.com.au/search?site=imghp&tbm=isch&source=hp&biw=1540&bih=762&q='],
   ['/a ', 'amazon', 'https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords='],
   ['/f ', 'facebook', 'https://www.facebook.com/search/top/?q='],
   ['/t ', 'twitter', 'https://twitter.com/search?q='],
